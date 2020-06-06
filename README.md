@@ -1,7 +1,7 @@
 # Primes---Java
-A small Java project which does some computations dealing with primes. \n
-Opperations include:
-Main:
+A small Java project which does some computations dealing with primes.  
+Opperations include:  
+Main:  
   The main file where the user can call the functions in Prime.
 Test:
   A JUnit test file.
