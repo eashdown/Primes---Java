@@ -1,5 +1,5 @@
 # Primes---Java
-A small Java project which does some computations dealing with primes.
+A small Java project which does some computations dealing with primes. \n
 Opperations include:
 Main:
   The main file where the user can call the functions in Prime.
